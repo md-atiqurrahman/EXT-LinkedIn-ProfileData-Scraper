@@ -29,6 +29,7 @@ module.exports = {
     devtool: 'cheap-module-source-map',
     entry: {
         popup: './src/popup-page/popup.tsx',
+        contentScript: './src/contentScript.ts',
     },
     output: {
         filename: '[name].js',

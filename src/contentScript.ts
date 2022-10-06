@@ -1,0 +1,1 @@
+console.log("content script is from in LinkedIn reader");
